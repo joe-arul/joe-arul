@@ -5,10 +5,10 @@
 </div>
 
 <div id="badges" align="center">
-  <p> Connect with me on  </p>
+  <p> Connect with me on  
   <a href="https://www.linkedin.com/in/joearul/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> </p>
 </div>
 <!--
 **joe-arul/joe-arul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
