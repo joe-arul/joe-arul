@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif" width="200"/>
-</div>
-
-<div id="badges" align="center">
+![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
   <p> Connect with me on  
   <a href="https://www.linkedin.com/in/joearul/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
