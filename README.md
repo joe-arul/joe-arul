@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
   <p> Connect with me on  
   <a href="https://www.linkedin.com/in/joearul/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> </p>
-</div>
 <!--
 **joe-arul/joe-arul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
