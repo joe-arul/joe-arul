@@ -1,5 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=joe-arul" alt="visitor" /> <a href="https://www.linkedin.com/in/joearul/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=joe-arul" alt="visitor" /> <a href="https://www.linkedin.com/in/joearul/"> [![GitHub followers](https://img.shields.io/github/followers/joe-arul.svg?style=social&label=Follow)](https://github.com/joe-arul/MyBadges)
 </a>
 
 <h1 align='center'> Hi! :wave:</h1>
