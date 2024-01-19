@@ -2,16 +2,15 @@
 
 ### I'm Joe. Nice to meet you 
 
-- **Current:** MS Information Systems Student & Research Assistant at the [**University of South Florida**](https://www.usf.edu/)
+- **Current:** *MS Information Systems* Student & Research Assistant at the [**University of South Florida**](https://www.usf.edu/)
 - **Previous:** Mainframe Software Engineer at [**Rocket Software**](https://www.rocketsoftware.com)
 - **Interested in:**  SWE - Machine Learning Engineering, Data Engineering & Sciences
 - **Find my work at:** [joearul.com/projects](https://joearul.com/projects/)
 
-<h3 align="left">Connect with me on: <a href="https://linkedin.com/in/joearul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joearul" height="22.5" width="30" /></a> </h3>
-  
+<h3 align="left">Connect with me on <a href="https://linkedin.com/in/joearul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joearul" height="26.25" width="35" /></a> </h3>
 </p>
 
-
+                         
 [![joe-arul's GitHub | Languages Over Time](https://stats.quine.sh/joe-arul/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=joe-arul)
 
 
