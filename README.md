@@ -5,7 +5,7 @@
 - **Current:** MS Information Systems Student & Research Assistant at the [**University of South Florida**](https://www.usf.edu/)
 - **Previous:** Mainframe Software Engineer at [**Rocket Software**](https://www.rocketsoftware.com)
 - **Interested in:**  SWE - Machine Learning Engineering, Data Engineering & Sciences
-- **Find my work at:** [joearul.com](https://joearul.com/projects/)
+- **Find my work at:** [joearul.com/projects](https://joearul.com/projects/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
