@@ -1,23 +1,22 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=joe-arul" alt="visitor" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=joe-arul" alt="visitor" /> <a href="https://www.linkedin.com/in/joearul/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Joe.
 </p>
 
-- Current: MS Information Systems Student, Research Assistant at the University of South Florida
+- Current: MS Information Systems Student & Research Assistant at the University of South Florida
 - Previous: Software Engineer at Rocket Software
-- 
+- Interested in: SWE: Machine Learning Engineering, Data Engineering/ Sciences
+- Find my work at: [joearul.com](https://joearul.com/)
 
-  <p> Connect with me on  
-  <a href="https://www.linkedin.com/in/joearul/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-arul&layout=compact)
 
 [![joe-arul's GitHub | Languages Over Time](https://stats.quine.sh/joe-arul/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=joe-arul)
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 
   
 <!--
