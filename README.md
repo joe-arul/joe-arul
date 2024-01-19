@@ -8,8 +8,8 @@ I'm Joe.
 </p>
 
 - Current: MS Information Systems Student & Research Assistant at the University of South Florida
-- Previous: Software Engineer at Rocket Software
-- Interested in: SWE: Machine Learning Engineering, Data Engineering/ Sciences
+- Previous: Mainframe Software Engineer at Rocket Software
+- Interested in:  SWE - Machine Learning Engineering, Data Engineering & Sciences
 - Find my work at: [joearul.com](https://joearul.com/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-arul&layout=compact)
