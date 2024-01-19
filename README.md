@@ -2,10 +2,10 @@
 
 <h1 align='center'> Hi! :wave:</h1>
 
-I'm Joe. Nice to meet you 
+#### I'm Joe. Nice to meet you 
 
-- **Current:** MS Information Systems Student & Research Assistant at the University of South Florida
-- **Previous:** Mainframe Software Engineer at Rocket Software
+- **Current:** MS Information Systems Student & Research Assistant at the [**University of South Florida**](https://www.usf.edu/)
+- **Previous:** Mainframe Software Engineer at [**Rocket Software**](https://www.rocketsoftware.com)
 - **Interested in:**  SWE - Machine Learning Engineering, Data Engineering & Sciences
 - **Find my work at:** [joearul.com](https://joearul.com/)
 
