@@ -1,17 +1,19 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=joe-arul" alt="visitor" /> <a href="https://www.linkedin.com/in/joearul/"> [![GitHub followers](https://img.shields.io/github/followers/joe-arul.svg?style=social&label=Follow)](https://github.com/joe-arul/MyBadges)
-</a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=joe-arul" alt="visitor" /> 
 
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Joe.
+
+I'm Joe. Nice to meet you 
+
+- **Current:** MS Information Systems Student & Research Assistant at the University of South Florida
+- **Previous:** Mainframe Software Engineer at Rocket Software
+- **Interested in:**  SWE - Machine Learning Engineering, Data Engineering & Sciences
+- **Find my work at:** [joearul.com](https://joearul.com/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joearul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joearul" height="30" width="40" /></a>
+<a href="https://instagram.com/_joearul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_joearul" height="30" width="40" /></a>
 </p>
-
-- Current: MS Information Systems Student & Research Assistant at the University of South Florida
-- Previous: Mainframe Software Engineer at Rocket Software
-- Interested in:  SWE - Machine Learning Engineering, Data Engineering & Sciences
-- Find my work at: [joearul.com](https://joearul.com/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-arul&layout=compact)
 
 [![joe-arul's GitHub | Languages Over Time](https://stats.quine.sh/joe-arul/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=joe-arul)
 
