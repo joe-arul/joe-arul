@@ -7,10 +7,7 @@
 - **Interested in:**  SWE - Machine Learning Engineering, Data Engineering & Sciences
 - **Find my work at:** [joearul.com/projects](https://joearul.com/projects/)
 
-<h3 align="left">Connect with me on: <a href="https://linkedin.com/in/joearul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joearul" height="15" width="20" /></a> </h3>
-<p align="left"> 
-<a href="https://linkedin.com/in/joearul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joearul" height="30" width="40" /></a>
-<a href="https://instagram.com/_joearul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_joearul" height="30" width="40" /></a>
+<h3 align="left">Connect with me on: <a href="https://linkedin.com/in/joearul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joearul" height="22.5" width="30" /></a> </h3>
   
 </p>
 
