@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> </p>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=joe-arul)
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=joe-arul" alt="visitor" />
 <img src="https://myreadme.vercel.app/api/embed/joe-arul?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   
 <!--
